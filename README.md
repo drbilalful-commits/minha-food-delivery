@@ -1,7 +1,13 @@
-# Minha Food Delivery — Mian Channu
+# Minha Food Delivery v2
 
-Ready Flutter customer app. This simplified build runs without Firebase configuration and sends orders to WhatsApp.
+A richer Flutter customer app for Mian Channu with:
+- branded splash/welcome screens
+- Minha logo asset
+- Food, Grocery, Vegetables, Medicine and Other categories
+- product cards, cart and checkout
+- Cash on Delivery
+- WhatsApp ordering to 0333 6245021
+- Orders/Profile tabs
+- demo Rider/Admin panels
 
-## Build
-`flutter pub get`
-`flutter build apk --release`
+This version does not require Firebase.
